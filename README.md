@@ -121,7 +121,7 @@ I am particularly interested in opportunities involving:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vivian-eze-336672157/)
+https://www.linkedin.com/in/vivian-eze-4b4873426/
 
 Feel free to explore my repositories and follow my journey as I continue learning, building, and growing in software development.
 
