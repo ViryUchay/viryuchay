@@ -1,133 +1,148 @@
 # Hi, I'm Vivian Eze 👋
 
-### Technology & Operations | Software Development | Digital Transformation
+### Technology & Operations Professional | Software Development Learner | Digital Transformation
 
-Welcome to my GitHub profile!
+I am a technology and operations professional with 14+ years of experience in IT strategy, network and systems administration, technology consulting, and digital transformation.
 
-I'm a technology and operations professional with experience in IT strategy, systems integration, digital transformation, technology operations, and project coordination. I am currently expanding my software development skills through **BYU-Idaho**, building practical web applications and learning modern development tools and technologies.
+I enjoy solving problems, improving systems, learning new technologies, and helping people use technology more effectively. My professional experience includes technology operations, infrastructure management, IT consulting, business continuity, training, and technology project coordination.
 
-I enjoy using technology to solve problems, improve systems, support organizations, and create opportunities for people and communities.
+I am currently expanding my software development skills through **BYU-Pathway Worldwide and BYU-Idaho**, building practical projects and strengthening my knowledge of modern web development, databases, and software engineering.
 
-## 👩🏽‍💻 About Me
+---
 
-* 🎓 Currently studying **Software Development at BYU-Idaho**
-* 💼 Technology and operations professional with **14+ years of experience**
-* 🌍 Interested in technology, digital transformation, and purpose-driven solutions across Africa and global markets
-* 💡 Currently developing my skills in full-stack web development
-* 📚 Always learning new technologies and improving my problem-solving skills
-* 🤝 Passionate about helping people and supporting meaningful projects
-* 🚀 Building practical projects to strengthen my software development portfolio
+## 🚀 What I'm Working On
 
-## 🛠️ Technologies & Tools
+* 🌱 Expanding my skills in **software development and database development**
+* 💻 Building practical web applications with **JavaScript, Python, Django, Node.js, and SQL**
+* 🔧 Developing projects that combine technology with practical business and community needs
+* 📚 Strengthening my knowledge of software development through hands-on coursework and projects
+* 🌍 Exploring opportunities where technology can support organizations, communities, and people across Africa and global markets
 
-### Languages & Web Development
+---
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
-</div>
+## 🛠️ Skills & Technologies
 
-### Frameworks & Development Tools
+### Development
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat\&logo=csharp\&logoColor=white)
 
-### Other Skills
+### Frameworks & Platforms
 
-* IT Strategy & Technology Operations
+![Django](https://img.shields.io/badge/Django-092E20?style=flat\&logo=django\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+
+### Databases & Tools
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+
+### IT & Operations
+
+* IT Strategy
 * Digital Transformation
+* Network Administration
 * Systems Integration
-* Web Application Development
-* Database Management
 * IT Project Management
-* Technical Problem Solving
-* Business & Technology Analysis
-* Microsoft Technologies
-* Business Process Improvement
+* Technology Operations
+* Business Continuity
+* IT Consulting
+* Microsoft Servers
+* Microsoft 365
+* Learning Management Systems
+* Computer-Based Testing Systems
 
-## 🚀 Featured Projects
+---
+
+## 📌 Featured Projects
+
+### 🏢 Lagos / Timbuktu Chamber
+
+A responsive chamber website developed as part of my web development learning.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ViryUchay/wdd231)
+
+---
 
 ### 🌱 AgriYouth Connect
 
-A web project focused on connecting young people with agricultural opportunities, resources, and service projects.
+A web application project focused on connecting agricultural opportunities, resources, and youth-focused initiatives.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** HTML • CSS • JavaScript
 
-### 🏢 Lagos Chamber Website
+🔗 [View Repository](https://github.com/ViryUchay/w330/tree/main/agroyouth-connect)
 
-A responsive chamber-of-commerce website developed as part of my web development learning journey.
+---
 
-**Technologies:** HTML, CSS, JavaScript
+### 💤 SleepOutside
 
-### 📋 Overview Dashboard
+A team-based web development project focused on creating an interactive outdoor retail experience.
 
-An interactive dashboard for managing tasks and tracking learning resources.
+**Technologies:** JavaScript • HTML • CSS
 
-**Features include:**
+🔗 [View Repository](https://github.com/ViryUchay)
 
-* Task management
-* Task completion tracking
-* Search and filtering
-* Resource tracking
-* Dashboard statistics
-* Local data storage
+---
 
-**Technologies:** HTML5, CSS3, JavaScript
+### 📊 Service Projects Web Application
 
-### 🌐 Service Projects Platform
+A web application that uses a database to retrieve and display service project information, including upcoming projects and individual project details.
 
-A web application for displaying service projects, organizations, categories, and project details using server-side development and a database.
+**Technologies:** Node.js • Express • EJS • PostgreSQL • JavaScript
 
-**Technologies:** Node.js, Express, EJS, SQL
+🔗 [View GitHub Projects](https://github.com/ViryUchay)
 
-## 📚 Currently Learning
+---
 
-I'm currently strengthening my software development skills in:
+### 🗄️ SQL Relational Database Project
 
-* JavaScript
-* Node.js and Express
-* Python and Django
-* C#
-* SQL and relational databases
-* Git and GitHub
-* Web application architecture
-* Responsive and accessible web design
-* Backend development
-* Database-driven applications
+A software project demonstrating relational database concepts, SQL queries, and interactive application functionality.
 
-## 🎯 My Goals
+**Technologies:** SQL • JavaScript • HTML • CSS
 
-My goal is to combine my experience in **technology leadership and operations** with my growing software development skills to build useful, reliable, and accessible technology solutions.
+🔗 [View GitHub Projects](https://github.com/ViryUchay)
 
-I am particularly interested in opportunities involving:
+---
+
+## 📈 GitHub Statistics
+
+![Vivian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViryUchay\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViryUchay\&layout=compact\&hide_border=true)
+
+---
+
+## 🎯 Professional Interests
 
 * Technology Management
-* Software Development
 * Digital Transformation
+* Software Development
 * IT Consulting
-* Technology Operations
+* Systems Integration
 * Business Operations
-* Social Impact Technology
+* Technology for Social Impact
+* Continuous Learning
+
+---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vivian-eze-4b4873426/)
+I'm interested in connecting with people working in technology, software development, digital transformation, consulting, operations, and purpose-driven organizations.
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and growing in software development.
+**LinkedIn:**
+https://www.linkedin.com/in/vivian-eze-4b4873426/
 
-**Thanks for visiting my profile! 🚀**
+**GitHub:**
+https://github.com/ViryUchay
 
+---
 
-Feel free to explore my repositories and follow my journey as I continue learning, building, and growing in software development.
-
-**Thanks for visiting my profile! 🚀**
+> **Learning continuously. Building practically. Using technology to create meaningful solutions.**
