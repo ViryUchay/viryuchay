@@ -112,7 +112,7 @@ A software project demonstrating relational database concepts, SQL queries, and 
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 ![Vivian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViryUchay\&show_icons=true\&hide_border=true)
 
