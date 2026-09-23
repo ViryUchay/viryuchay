@@ -114,11 +114,23 @@ A software project demonstrating relational database concepts, SQL queries, and 
 
 ## 📊 GitHub Statistics
 
-![Vivian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViryUchay\&show_icons=true\&hide_border=true)
+| GitHub Statistic       | Current |
+| ---------------------- | ------: |
+| 📦 Total Repositories  |  **11** |
+| 🌐 Public Repositories |   **9** |
+| 👥 Followers           |   **0** |
+| ⭐ Following            |   **1** |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViryUchay\&layout=compact\&hide_border=true)
+### 💻 Current Development Focus
 
----
+* **Web Development:** HTML, CSS, JavaScript
+* **Backend Development:** Python, Django, Node.js, Express
+* **Databases:** SQL and PostgreSQL
+* **Version Control:** Git and GitHub
+* **Software Development:** Building practical projects through hands-on learning
+
+🔗 **[Explore my GitHub repositories](https://github.com/ViryUchay)**
+
 
 ## 🎯 Professional Interests
 
