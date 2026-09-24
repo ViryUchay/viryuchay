@@ -2,7 +2,7 @@
 
 ### Technology & Operations Professional | Software Development Learner | Digital Transformation
 
-I am a technology and operations professional with 14+ years of experience in IT strategy, network and systems administration, technology consulting, and digital transformation.
+I am a technology and operations professional with **14+ years of experience** in IT strategy, network and systems administration, technology consulting, and digital transformation.
 
 I enjoy solving problems, improving systems, learning new technologies, and helping people use technology more effectively. My professional experience includes technology operations, infrastructure management, IT consulting, business continuity, training, and technology project coordination.
 
@@ -39,6 +39,7 @@ I am currently expanding my software development skills through **BYU-Pathway Wo
 ### Databases & Tools
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
@@ -64,7 +65,7 @@ I am currently expanding my software development skills through **BYU-Pathway Wo
 
 ### 🏢 Lagos / Timbuktu Chamber
 
-A responsive chamber website developed as part of my web development learning.
+A responsive chamber website developed as part of my web development learning, demonstrating responsive design, JavaScript functionality, dynamic content, and user-focused web development.
 
 **Technologies:** HTML • CSS • JavaScript
 
@@ -82,45 +83,97 @@ A web application project focused on connecting agricultural opportunities, reso
 
 ---
 
+### 🌍 Trade West Africa
+
+A web project focused on agricultural trade information and connections across West Africa.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ViryUchay/wdd231/tree/main/trade-west-africa)
+
+---
+
+### 🛠️ HelmetCrest
+
+A responsive business website created for a one-stop service and repair company, with a focus on usability, accessibility, responsive design, and practical business needs.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ViryUchay/wdd131/tree/main/project)
+
+---
+
+### 🏛️ Temple Album
+
+An interactive temple album demonstrating dynamic content, filtering, responsive layouts, and JavaScript-based user interactions.
+
+**Technologies:** HTML • CSS • JavaScript
+
+🔗 [View Repository](https://github.com/ViryUchay/wdd131)
+
+---
+
 ### 💤 SleepOutside
 
 A team-based web development project focused on creating an interactive outdoor retail experience.
 
 **Technologies:** JavaScript • HTML • CSS
 
-🔗 [View Repository]([https://sleep-outside-m7c0.onrender.com/]
+🔗 [View Live Site](https://sleep-outside-m7c0.onrender.com/)
 
 ---
 
-### 📊 Service Projects Web Application
+### 📊 Task & Resource Tracker
 
-A web application that uses a database to retrieve and display service project information, including upcoming projects and individual project details.
+A practical web application for managing tasks and resources, with interactive task tracking and local data management.
 
-**Technologies:** Node.js • Express • EJS • PostgreSQL • JavaScript
+**Technologies:** HTML • CSS • JavaScript
 
-🔗 [View GitHub Projects][(https://github.com/ViryUchay/cse340-course-repo/tree/main/site/src)]
+🔗 [View Repository](https://github.com/ViryUchay/task-resource-tracker)
+
+---
+
+### 🐍 CSE 270 — Teton Directory Data Service
+
+A Django-based backend project demonstrating Python web development, database integration, application structure, and testing.
+
+**Technologies:** Python • Django • SQL • pytest
+
+🔗 [View Repository](https://github.com/ViryUchay/cse270-teton)
 
 ---
 
 ## 📊 GitHub Statistics
 
-| GitHub Statistic       | Current |
-| ---------------------- | ------: |
-| 📦 Total Repositories  |  **11** |
-| 🌐 Public Repositories |   **9** |
-| 👥 Followers           |   **0** |
-| ⭐ Following            |   **1** |
+![Vivian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViryUchay\&show_icons=true\&hide_border=true\&count_private=true)
 
-### 💻 Current Development Focus
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViryUchay\&layout=compact\&hide_border=true)
+
+### 📈 GitHub Profile
+
+| Statistic       | Current |
+| --------------- | ------: |
+| 📦 Repositories |  **12** |
+| ⭐ Stars         |   **0** |
+| 👥 Followers    |   **0** |
+| 👤 Following    |   **1** |
+
+🔗 **[Explore my GitHub repositories](https://github.com/ViryUchay)**
+
+---
+
+## 💻 Current Development Focus
 
 * **Web Development:** HTML, CSS, JavaScript
 * **Backend Development:** Python, Django, Node.js, Express
 * **Databases:** SQL and PostgreSQL
 * **Version Control:** Git and GitHub
 * **Software Development:** Building practical projects through hands-on learning
+* **Problem Solving:** Applying technology to practical organizational and community needs
 
-🔗 **[Explore my GitHub repositories](https://github.com/ViryUchay)**
-
+---
 
 ## 🎯 Professional Interests
 
