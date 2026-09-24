@@ -102,16 +102,6 @@ A web application that uses a database to retrieve and display service project i
 
 ---
 
-### 🗄️ SQL Relational Database Project
-
-A software project demonstrating relational database concepts, SQL queries, and interactive application functionality.
-
-**Technologies:** SQL • JavaScript • HTML • CSS
-
-🔗 [View GitHub Projects](https://github.com/ViryUchay)
-
----
-
 ## 📊 GitHub Statistics
 
 | GitHub Statistic       | Current |
