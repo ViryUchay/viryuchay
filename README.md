@@ -98,7 +98,7 @@ A web application that uses a database to retrieve and display service project i
 
 **Technologies:** Node.js • Express • EJS • PostgreSQL • JavaScript
 
-🔗 [View GitHub Projects](https://github.com/ViryUchay)
+🔗 [View GitHub Projects][(https://github.com/ViryUchay/cse340-course-repo/tree/main/site/src)]
 
 ---
 
